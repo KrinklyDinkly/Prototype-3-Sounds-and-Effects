@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c68388610dc8b6248b57ff49cd05dc43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  JumpForce: 12
+  JumpForce: 700
   GravityModifier: 2
   IsOnGround: 1
   GameOver: 0
@@ -536,7 +536,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1605580737}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 60
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
